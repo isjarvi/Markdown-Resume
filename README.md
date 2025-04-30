@@ -45,12 +45,16 @@
        * 负责多个业务系统的开发
 
 ## 其他工作
+
 1. 负责整个公司内网的环境搭建和维护，如：vsphere平台，k8s集群，ups设备，nas设备
 2. 负责多个重要服务的维护，如：ldap，svn，harbor，distcc，vpn(wireguard)，dns，keepalive，vip...
 
 
 ## 其他信息
+
 * 乐观开朗，谦逊平和，善于与他人协同合作
 * 喜欢钻研技术，接受具有挑战性的任务
 * 工作认真负责，高效率且高质量地完成工作
 
+
+http服务hot restart, 子进程继承listenfd
