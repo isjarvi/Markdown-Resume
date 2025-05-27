@@ -6,7 +6,7 @@
 
 * 性 别：男&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;年 龄：31
 * 手 机：18458370981&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;邮 箱：isqianjiawei@gmail.com
-* 专 业：自动化&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;岗 位：资深游戏服务端开发
+* 专 业：自动化&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;岗 位：游戏服务端开发
 
 ## 工作及教育经历
 
@@ -30,8 +30,9 @@
    2. 项目：飞吧龙骑士(飞行射击)，go微服务架构，服务端负责人， 2022~2023
        * 使用go从无到有从新构建项目服务端，搭建开发流程，错误反馈流程，上线发布流程，运维流程
        * 容器化所有服务，并推动应用到正式环境，积累了一定的云原生相关经验
-       * 团队成员培养，方案设计评估，代码review，绩效评定等管理工作
-   3. 项目：高能手办团(放置卡牌)，c服务端框架，服务端负责人， 2019~2022
+       * 设计并实现了gamesvr的逻辑热更新
+       * 团队成员培养，方案设计评估，代码review等管理工作
+   3. 项目：高能手办团(放置卡牌)，c服务端框架，服务端主力开发， 2019~2022
        * 负责多个大型玩法的设计开发，线上维护
        * 整理制定公司游戏上线评定标准，如：系统环境，安全，容灾，压测等
    4. 项目：巴清传(MMO)， c服务端框架， 2018~2019
@@ -47,7 +48,7 @@
 ## 其他工作
 
 1. 负责整个公司内网的环境搭建和维护，如：vsphere平台，k8s集群，ups设备，nas设备
-2. 负责多个重要服务的维护，如：ldap，svn，harbor，distcc，vpn(wireguard)，dns，keepalive，vip...
+2. 负责多个关键服务的维护，如：ldap，svn，harbor，distcc，vpn(wireguard)，dns，keepalive，vip...
 
 
 ## 其他信息
@@ -55,6 +56,3 @@
 * 乐观开朗，谦逊平和，善于与他人协同合作
 * 喜欢钻研技术，接受具有挑战性的任务
 * 工作认真负责，高效率且高质量地完成工作
-
-
-http服务hot restart, 子进程继承listenfd
